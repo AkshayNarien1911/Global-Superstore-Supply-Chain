@@ -15,32 +15,6 @@ An end-to-end data analytics project transforming a raw 51,290-row global retail
 - **Geographic cost disparities:** While North America and the US dominate total sales and order volume, the APAC and EU regions carry noticeably higher shipping cost ratios.
 
 ---
-
-## 📈 Dashboard Results
-
-*The charts below are generated dynamically in Excel. The standalone PNGs are stored in `/results` for GitHub preview purposes.*
-
-<table>
-<tr>
-<td><img src="results/01_shipping_cost_ratio_by_shipmode.png" width="420"/></td>
-<td><img src="results/02_priority_vs_shipmode.png" width="420"/></td>
-</tr>
-<tr>
-<td><img src="results/03_sales_profit_by_region.png" width="420"/></td>
-<td><img src="results/04_profit_by_subcategory.png" width="420"/></td>
-</tr>
-<tr>
-<td><img src="results/05_profit_margin_by_discount_band.png" width="420"/></td>
-<td><img src="results/06_weekly_sales_trend.png" width="420"/></td>
-</tr>
-<tr>
-<td><img src="results/07_top10_customers.png" width="420"/></td>
-<td><img src="results/08_top15_countries.png" width="420"/></td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Technical Implementation
 
 ### 1. The Excel Dashboard (`excel/Global_Superstore_Dashboard.xlsx`)
